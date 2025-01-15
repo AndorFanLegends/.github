@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<b>AndorFanLegend</b> : An App to list, view and play with Andor Fan Legends
+https://andorfanlegends.web.app
+
+<b>AndorFanLegendCreator</b> : Created or Translate Legend for the AndorFanLegend App
+https://andorfanlegendcreator.web.app/
+
 <!--
 
 **Here are some ideas to get you started:**
